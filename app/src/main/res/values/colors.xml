@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#0082B4</color>
-    <color name="colorPrimaryDark">#006EA0</color>
-    <color name="colorAccent">#23BEA5</color>
+    <color name="colorPrimary">#171717</color>
+    <color name="colorPrimaryDark">#171717</color>
+    <color name="colorAccent">#171717</color>
 
-    <color name="darkColorPrimary">#0082B4</color>
-    <color name="darkColorPrimaryDark">#006EA0</color>
-    <color name="darkColorAccent">#23BEA5</color>
+    <color name="darkColorPrimary">#171717</color>
+    <color name="darkColorPrimaryDark">#171717</color>
+    <color name="darkColorAccent">#ee4f4f</color>
     
     <!-- Navigation Bar
     * Must be solid color, no alpha -->
-    <color name="navigationBar">#000000</color>
-    <color name="navigationBarDark">#000000</color>
+    <color name="navigationBar">#171717</color>
+    <color name="navigationBarDark">#171717</color>
 
     <!-- Splash Screen -->
     <color name="splashColor">#F0F0F0</color>
@@ -24,7 +24,7 @@
     <color name="navigationViewText">#505A64</color>
     <color name="navigationViewTextDark">#DDFFFFFF</color>
     <color name="navigationViewTextSelected">#0082B4</color>
-    <color name="navigationViewTextSelectedDark">#0082B4</color>
+    <color name="navigationViewTextSelectedDark">#ee4f4f</color>
     <color name="navigationViewSelectedBackground">#00000000</color>
     <color name="navigationViewSelectedBackgroundDark">#00000000</color>
 
