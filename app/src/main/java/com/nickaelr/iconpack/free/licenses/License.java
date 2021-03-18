@@ -1,4 +1,4 @@
-package com.material.dashboard.candybar.sample.licenses;
+package com.nickaelr.iconpack.free.licenses;
 
 import com.dm.material.dashboard.candybar.items.InAppBilling;
 

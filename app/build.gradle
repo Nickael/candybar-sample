@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
 
     compileSdkVersion rootProject.ext.CompileSdk
-    buildToolsVersion rootProject.ext.BuildTools
+    buildToolsVersion BuildTools
 
     android.applicationVariants.all { variant ->
         variant.outputs.all { output ->
@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.material.dashboard.candybar.sample"
+        applicationId 'com.nickaelr.iconpack.free'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
@@ -31,7 +31,7 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     /*
      * CandyBar Material Dashboard Library
@@ -44,5 +44,9 @@ dependencies {
      * 5. Clean project
      * 6. Done
      */
-    compile 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+    implementation 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+}
+repositories {
+    maven { url 'https://dl.bintray.com/kotlin/kotlin-eap' }
+    mavenCentral()
 }

@@ -1,10 +1,11 @@
-package com.material.dashboard.candybar.sample.activities;
+package com.nickaelr.iconpack.free.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarSplashActivity;
 import com.dm.material.dashboard.candybar.activities.configurations.SplashScreenConfiguration;
-import com.material.dashboard.candybar.sample.R;
+import com.nickaelr.iconpack.free.R;
+import com.nickaelr.iconpack.free.activities.MainActivity;
 
 public class SplashActivity extends CandyBarSplashActivity {
 
