@@ -10,23 +10,23 @@
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
-    <bool name="use_dark_theme">false</bool>
+    <bool name="use_dark_theme">true</bool>
 
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">Your Art Source Name</string>
+    <string name="muzei_art_source_name"></string>
 
     <!-- Muzei art source description -->
-    <string name="muzei_art_source_desc">Your Art Source Description</string>
+    <string name="muzei_art_source_desc"></string>
 
     <!-- Muzei base color -->
-    <color name="muzei_color">#0082B4</color>
+    <color name="muzei_color">#595959</color>
 
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">CandyBar</string>
+    <string name="home_title">Mono Flat Icon Pack</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -35,7 +35,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="home_image">https://drive.google.com/uc?id=1et20vUlISLBna_cp_tIN_J1JknCTQLRj</string>
 
     <!-- Home image style
     * Available choices:
@@ -44,20 +44,21 @@
     * landscape
     * square
     -->
-    <string name="home_image_style">card_landscape</string>
-    
+<!--    <string name="home_image_style">card_landscape</string>-->
+    <string name="home_image_style">landscape</string>
+
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        Description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        This Icon pack is my first one <b>more are coming soon</b>.<br>
+        <a href="https://github.com/Nickael">You can see my works here</a>.
         ]]></string>
 
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>
+    <string name="google_play_dev"></string>
+<!--    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>-->
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -69,15 +70,17 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="navigation_view_header">https://drive.google.com/uc?id=1et20vUlISLBna_cp_tIN_J1JknCTQLRj</string>
+<!--    <string name="navigation_view_header">#353336</string>-->
+<!--    <string name="navigation_view_header">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>-->
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title">Mono Flat Pack</string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
-    <bool name="enable_apply">true</bool>
+    <bool name="enable_apply">false</bool>
 
     <!-- CONFIG: ICONS -->
 
@@ -131,7 +134,7 @@
     <!-- Take a look inside License.java for premium request product -->
 
     <!-- Email that will be used to send icon request and report bugs -->
-    <string name="dev_email">your@email.com</string>
+    <string name="dev_email">contact@nickaelr.com</string>
 
     <!-- CONFIG: CLOUD WALLPAPERS -->
 
@@ -148,7 +151,7 @@
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
-    <bool name="enable_wallpaper_download">true</bool>
+    <bool name="enable_wallpaper_download">false</bool>
 
     <!-- Auto generated color for wallpaper card
     * default: true
@@ -178,22 +181,24 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="about_image"></string>
+<!--    <string name="about_image">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>-->
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
     * If you want to use image stored in project (drawable folder)
     * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
-    <string name="about_profile_image">https://lh3.googleusercontent.com/-KBI2HdgNtN0/AAAAAAAAAAI/AAAAAAAABpc/icnuAgrjOT4/s256-p-rw-no/photo.jpg</string>
+    <string name="about_profile_image">https://drive.google.com/uc?id=1reFCqbe2oPPYSyXXqTXP0YRe6Isft7LB</string>
 
     <!-- About title above description -->
-    <string name="about_title">CandyBar \nMaterial Dashboard</string>
+    <string name="about_title">Nickaël R \nMono Flat Dashboard</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        Hi there, hope your doing great.<br>
+        Thanks for using my Icon Pack, I truly appreciate it.<br>
+        You can see my other works from the links below.<br>
+        See you soon !
         ]]></string>
 
     <!-- Social link inside about
@@ -205,13 +210,11 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>https://www.instagram.com/_u/yourusername</item>
-        <item>https://twitter.com/</item>
-        <item>https://www.behance.net/</item>
-        <item>https://plus.google.com/u/1/+yourusername</item>
-        <item>http://github.com/yourusername</item>
-        <item>http://www.yourwebsite.com</item>
-        <item>your@email.com</item>
+        <item>https://www.instagram.com/nickrs/</item>
+        <item>https://twitter.com/nickael_r</item>
+        <item>https://github.com/Nickael</item>
+        <item>http://www.nickaelr.com</item>
+        <item>hello@nickaelr.com</item>
     </string-array>
 
     <!-- Contributors dialog

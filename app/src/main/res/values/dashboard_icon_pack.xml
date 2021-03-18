@@ -4,28 +4,34 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">CandyBar Sample</string>
+    <string name="app_name">Mono Flat Pack</string>
 
-    <string name="theme_title">Your Icon Pack Name</string>
-    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_title">Mono Flat Pack</string>
+    <string name="theme_name">Mono Flat Pack</string>
 
-    <string name="theme_author">Developer</string>
-    <string name="developer_name">Developer</string>
-    <string name="developerName">Developer</string>
-    <string name="authorName">Developer</string>
+    <string name="theme_author">Nickael R</string>
+    <string name="developer_name">Nickael R</string>
+    <string name="developerName">Nickael R</string>
+    <string name="authorName">Nickael R</string>
 
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="authorLink">http://nickaelr.com</string>
+    <string name="developer_link">http://nickaelr.com/</string>
 
-    <string name="theme_description">Your Icon Pack Description</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
+    <string name="theme_description">This is my first icon pack</string>
+    <string name="theme_info">This is my first icon pack with a simple icon themes</string>
+    <string name="theme_ad_msg">This is my first icon pack with a simple icon themes</string>
 
     <string name="theme_feature">feature</string>
 
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
 
-    <string name="iconpack">com.your.package.name</string>
+    <string name="iconpack">com.nickaelr.iconpack.free</string>
+
+    <string name="use_dark_theme">false</string>
+
+    <!-- ICON REQUEST-->
+    <string name="enable_icon_request">true</string>
+    <string name="enable_icon_request_limit">false</string>
 
 </resources>
