@@ -4,10 +4,10 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">Mono Flat Pack</string>
+    <string name="app_name">Nickrs Flat Pack</string>
 
-    <string name="theme_title">Mono Flat Pack</string>
-    <string name="theme_name">Mono Flat Pack</string>
+    <string name="theme_title">Nickrs Flat Pack</string>
+    <string name="theme_name">Nickrs Flat Pack</string>
 
     <string name="theme_author">Nickael R</string>
     <string name="developer_name">Nickael R</string>

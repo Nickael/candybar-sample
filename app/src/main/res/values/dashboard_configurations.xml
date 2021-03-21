@@ -26,7 +26,7 @@
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">Mono Flat Icon Pack</string>
+    <string name="home_title">Nickrxs Flat Pack</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -35,7 +35,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">https://drive.google.com/uc?id=1et20vUlISLBna_cp_tIN_J1JknCTQLRj</string>
+    <string name="home_image"></string>
 
     <!-- Home image style
     * Available choices:
@@ -70,16 +70,17 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">https://drive.google.com/uc?id=1et20vUlISLBna_cp_tIN_J1JknCTQLRj</string>
+    <string name="navigation_view_header"></string>
 <!--    <string name="navigation_view_header">#353336</string>-->
 <!--    <string name="navigation_view_header">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>-->
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">Mono Flat Pack</string>
+    <string name="navigation_view_header_title">Nickrxs Flat Pack</string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
+<!--    <bool name="enable_apply">true</bool>-->
     <bool name="enable_apply">false</bool>
 
     <!-- CONFIG: ICONS -->
@@ -191,7 +192,7 @@
     <string name="about_profile_image">https://drive.google.com/uc?id=1reFCqbe2oPPYSyXXqTXP0YRe6Isft7LB</string>
 
     <!-- About title above description -->
-    <string name="about_title">Nickaël R \nMono Flat Dashboard</string>
+    <string name="about_title">Nickaël R \nNickrxs Flat Dashboard</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
