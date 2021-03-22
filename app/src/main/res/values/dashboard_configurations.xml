@@ -96,7 +96,7 @@
     <!-- Icon picker icon name text below icon
     * default: true
     * Change to false to disable it -->
-    <bool name="show_icon_name">true</bool>
+    <bool name="show_icon_name">false</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
     * Put drawable.xml inside xml folder -->
@@ -148,7 +148,8 @@
     * just put your wallpaper app package name here
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
-    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>
+<!--    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>-->
+    <string name="wallpaper_json"></string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
@@ -157,7 +158,7 @@
     <!-- Auto generated color for wallpaper card
     * default: true
     * change to false to disable it -->
-    <bool name="card_wallpaper_auto_generated_color">true</bool>
+    <bool name="card_wallpaper_auto_generated_color">false</bool>
 
     <!-- Wallpaper name and author below wallpaper
     * Show or hide name and author below wallpaper

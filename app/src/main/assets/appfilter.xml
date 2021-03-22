@@ -84,7 +84,7 @@
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="ic_amazon_avod"/>
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp"/>
 
-    <!-- V1.0.1 -->
+    <!-- V1.0.0 -->
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_oneplus_camera"/>
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_android_calculator2"/>
     <item component="ComponentInfo{com.engloryintertech.caping/com.me.topnews.MyWelcome}" drawable="ic_engloryintertech_caping"/>
@@ -104,6 +104,8 @@
 
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="ic_oneplus_calculator"/>
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="ic_android_app_tachyon"/>
-    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="ic_oneplus_gallery"/>
     <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="ic_oneplus_mms"/>
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_android_videos"/>
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_android_music"/>
 </resources>

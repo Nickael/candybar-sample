@@ -9,7 +9,8 @@
     * <i> for Italic
     * <u> for Underline -->
     <string-array name="changelog">
-        <item>Added missing icon from Android One OS</item>
+        <item>Added missing icons for Android One OS</item>
+        <item>Added missing icons for OnePlus Oxygen OS</item>
         <item>Improved icon pack image quality</item>
     </string-array>
 

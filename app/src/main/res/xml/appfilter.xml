@@ -142,7 +142,7 @@
     <item component="ComponentInfo{com.blu.cups/com.blu.cups.MainActivity}" drawable="ic_blu_cups"/>
     <item component="ComponentInfo{com.zutgames.ilovehue2/com.unity3d.player.UnityPlayerActivity}" drawable="ic_zutgames_ilovehue2"/>
 
-    <!-- V1.0.1 -->
+    <!-- V1.0.0 -->
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_oneplus_camera"/>
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_android_calculator2"/>
     <item component="ComponentInfo{com.engloryintertech.caping/com.me.topnews.MyWelcome}" drawable="ic_engloryintertech_caping"/>
