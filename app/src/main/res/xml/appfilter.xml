@@ -74,7 +74,7 @@
     <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="ic_dev47apps_droidcam"/>
     <item component="ComponentInfo{com.eld3r.icon_pack.miui12/com.eld3r.icon_pack.miui12.activities.Check_GDPR}" drawable="ic_eld3r_icon_pack_miui12"/>
     <item component="ComponentInfo{com.envoituresimone.app/com.envoituresimone.app.MainActivity}" drawable="ic_envoituresimone"/>
-    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_orca"/>
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="ic_facebook_orca_3"/>
     <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="ic_android_apps_authenticator2"/>
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="ic_android_apps_chromecast"/>
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="ic_android_apps_docs"/>
@@ -105,7 +105,7 @@
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="ic_oneplus_soundrecorder"/>
     <item component="ComponentInfo{com.orange.mysosh/com.orange.mysosh.MySoshActivity}" drawable="ic_orange_mysosh"/>
     <item component="ComponentInfo{com.recloak.littlealchemy2/com.recloak.littlealchemy2.MainActivity}" drawable="ic_recloak_littlealchemy2"/>
-    <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="ic_revolut"/>
+    <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="ic_revolut_2"/>
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="ic_shazam"/>
     <item component="ComponentInfo{com.Slack/slack.app.ui.HomeActivity}" drawable="ic_slack"/>
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="ic_spotify"/>
@@ -141,11 +141,12 @@
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp"/>
     <item component="ComponentInfo{com.blu.cups/com.blu.cups.MainActivity}" drawable="ic_blu_cups"/>
     <item component="ComponentInfo{com.zutgames.ilovehue2/com.unity3d.player.UnityPlayerActivity}" drawable="ic_zutgames_ilovehue2"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_android_camera"/>
 
     <!-- V1.0.1 -->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_oneplus_camera"/>
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_android_calculator2"/>
     <item component="ComponentInfo{com.engloryintertech.caping/com.me.topnews.MyWelcome}" drawable="ic_engloryintertech_caping"/>
+    <item component="ComponentInfo{com.engloryintertech.caping/com.me.module.other.launcher.view.LauncherActivity}" drawable="ic_engloryintertech_caping"/>
     <item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="ic_miui_bugreport"/>
     <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivit}" drawable="ic_android_contacts"/>
     <item component="ComponentInfo{com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.Eas}" drawable="ic_coffeebeanventures_easyvoicerecorder"/>
@@ -158,5 +159,12 @@
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDi}" drawable="ic_android_dialer"/>
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_voip"/>
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_zoom_videomeetings"/>
+
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="ic_oneplus_calculator"/>
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="ic_android_app_tachyon"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="ic_oneplus_gallery"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="ic_oneplus_mms"/>
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_android_videos"/>
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_android_music"/>
 
 </resources>

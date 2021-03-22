@@ -98,4 +98,7 @@
     <item drawable="ic_android_dialer"/>
     <item drawable="ic_viber_voip"/>
     <item drawable="ic_zoom_videomeetings"/>
+
+    <item drawable="ic_oneplus_calculator"/>
+    <item drawable="ic_android_app_tachyon"/>
 </resources>

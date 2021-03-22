@@ -85,8 +85,10 @@
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="ic_whatsapp"/>
 
     <!-- V1.0.1 -->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="ic_oneplus_camera"/>
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="ic_android_calculator2"/>
     <item component="ComponentInfo{com.engloryintertech.caping/com.me.topnews.MyWelcome}" drawable="ic_engloryintertech_caping"/>
+    <item component="ComponentInfo{com.engloryintertech.caping/com.me.module.other.launcher.view.LauncherActivity}" drawable="ic_engloryintertech_caping"/>
     <item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="ic_miui_bugreport"/>
     <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivit}" drawable="ic_android_contacts"/>
     <item component="ComponentInfo{com.coffeebeanventures.easyvoicerecorder/com.digipom.easyvoicerecorder.ui.activity.Eas}" drawable="ic_coffeebeanventures_easyvoicerecorder"/>
@@ -100,4 +102,8 @@
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_voip"/>
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_zoom_videomeetings"/>
 
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="ic_oneplus_calculator"/>
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="ic_android_app_tachyon"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="ic_oneplus_mms"/>
 </resources>

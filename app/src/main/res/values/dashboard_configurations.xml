@@ -96,7 +96,7 @@
     <!-- Icon picker icon name text below icon
     * default: true
     * Change to false to disable it -->
-    <bool name="show_icon_name">false</bool>
+    <bool name="show_icon_name">true</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
     * Put drawable.xml inside xml folder -->
