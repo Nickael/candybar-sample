@@ -64,7 +64,7 @@
     <item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity}" drawable="ic_amazon_clouddrive_photos"/>
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="ic_amazon_mshop_shopping"/>
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="ic_android_chrome"/>
-    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="ic_android_dialer"/>
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="ic_android_dialer_1"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="ic_android_settings"/>
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_android_vending"/>
     <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="ic_azure_authenticator"/>
@@ -156,7 +156,6 @@
     <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLaun}" drawable="ic_google_ar_lens"/>
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActi}" drawable="ic_android_keep"/>
     <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="ic_skype_raider"/>
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDi}" drawable="ic_android_dialer"/>
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="ic_viber_voip"/>
     <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="ic_zoom_videomeetings"/>
 
@@ -166,5 +165,12 @@
     <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="ic_oneplus_mms"/>
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="ic_android_videos"/>
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="ic_android_music"/>
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="ic_android_contacts"/>
+    <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="ic_android_apps_subscriptions_red"/>
+    <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="ic_jp_naver_line"/>
+    <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="ic_linecorp_linelite"/>
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="ic_android_dialer"/>
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="ic_tencent_mm"/>
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="ic_snapchat"/>
 
 </resources>
