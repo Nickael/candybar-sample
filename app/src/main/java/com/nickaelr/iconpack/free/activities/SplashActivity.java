@@ -13,6 +13,7 @@ public class SplashActivity extends CandyBarSplashActivity {
     @Override
     public SplashScreenConfiguration onInit() {
         return new SplashScreenConfiguration(MainActivity.class)
-                .setBottomText(getString(R.string.splash_screen_title));
+                .setBottomText("");
+//                .setBottomText(getString(R.string.splash_screen_title));
     }
 }

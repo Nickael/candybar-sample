@@ -15,7 +15,12 @@ public class CandyBar extends CandyBarApplication {
         configuration.setGenerateAppFilter(true);
         configuration.setGenerateAppMap(true);
         configuration.setGenerateThemeResources(true);
-        
+        configuration.setHomeGridStyle(GridStyle.FLAT);
+        configuration.setHighQualityPreviewEnabled(true);
+        configuration.setAboutStyle(Style.PORTRAIT_FLAT_LANDSCAPE_FLAT);
+        configuration.setNavigationViewHeaderStyle(NavigationViewHeader.NONE);
+        configuration.setDashboardThemingEnabled(true);
+
         return configuration;
     }
 }

@@ -19,7 +19,7 @@
     <application
         android:name="com.nickaelr.iconpack.free.applications.CandyBar"
         android:allowBackup="true"
-        android:icon="@mipmap/icon"
+        android:icon="@drawable/ic_nickaelr_iconpack_free"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
