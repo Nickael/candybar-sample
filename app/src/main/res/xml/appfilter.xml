@@ -174,10 +174,6 @@
 
     <item drawable="ic_microsoft_emmx" component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}"/>
     <item drawable="ic_microsoft_office_excel" component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}"/>
-<!--    <item drawable="ic_microsoft_familysafety" component="ComponentInfo{com.microsoft.familysafety/com.microsoft.familysafety.MainActivity}"/>-->
-<!--    <item drawable="ic_microsoft_math" component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivi}"/>-->
-<!--    <item drawable="ic_microsoft_launcher" component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}"/>-->
-<!--    <item drawable="ic_microsoft_office_officelens" component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}"/>-->
     <item drawable="ic_microsoft_stream" component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.ui.activities.SplashActivity}"/>
     <item drawable="ic_microsoft_office_officehubrow" component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"/>
     <item drawable="ic_microsoft_skydrive" component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"/>
@@ -192,7 +188,6 @@
     <item drawable="ic_microsoft_todos" component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}"/>
     <item drawable="ic_microsoft_office_word" component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"/>
     <item drawable="ic_microsoft_appmanager" component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}"/>
-<!--    <item drawable="ic_microsoft_scmx" component="Component{com.microsoft.scmx/com.microsoft.defender.ux.activity.MDMainActivity}"/>-->
 
     <item drawable="ic_android_apps_docs_editors_docs" component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"/>
     <item drawable="ic_android_apps_docs_editors_sheets" component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"/>
@@ -206,4 +201,17 @@
     <item drawable="ic_android_apps_youtube_kids" component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity}"/>
     <item drawable="ic_google_ar_lens" component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"/>
     <item drawable="ic_google_earth" component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}"/>
+
+    <item drawable="ic_boursorama" component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}"/>
+    <item drawable="ic_ameli" component="ComponentInfo{fr.cnamts.it.activity/fr.cnamts.it.activity.LoginActivity}"/>
+    <item drawable="ic_anticovid" component="ComponentInfo{fr.gouv.android.stopcovid/com.lunabeestudio.stopcovid.activity.SplashScreenActivity}"/>
+    <item drawable="ic_dealabs" component="ComponentInfo{com.dealabs.apps.android/com.pepper.apps.android.presentation.MainActivity}"/>
+    <item drawable="ic_discord" component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"/>
+    <item drawable="ic_doctolib" component="ComponentInfo{fr.doctolib.www/fr.doctolib.www.MainActivity}"/>
+    <item drawable="ic_flo" component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}"/>
+    <item drawable="ic_nordvpn" component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.MainActivity}"/>
+    <item drawable="ic_sesterce" component="ComponentInfo{io.sesterce.androidapp/io.sesterce.androidapp.MainActivity}"/>
+    <item drawable="ic_sticker_ly" component="ComponentInfo{com.snowcorp.stickerly.android/com.snowcorp.stickerly.android.LauncherEntryActivity}"/>
+    <item drawable="ic_weward" component="ComponentInfo{com.weward/com.weward.MainActivity}"/>
+    <item drawable="ic_mi_home" component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"/>
 </resources>

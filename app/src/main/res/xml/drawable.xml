@@ -176,4 +176,17 @@
     <item drawable="ic_android_apps_youtube_kids"/>
     <item drawable="ic_google_ar_lens"/>
     <item drawable="ic_google_earth"/>
+
+    <item drawable="ic_boursorama"/>
+    <item drawable="ic_ameli"/>
+    <item drawable="ic_anticovid"/>
+    <item drawable="ic_dealabs"/>
+    <item drawable="ic_discord"/>
+    <item drawable="ic_doctolib"/>
+    <item drawable="ic_flo"/>
+    <item drawable="ic_nordvpn"/>
+    <item drawable="ic_sesterce"/>
+    <item drawable="ic_sticker_ly"/>
+    <item drawable="ic_weward"/>
+    <item drawable="ic_mi_home"/>
 </resources>
